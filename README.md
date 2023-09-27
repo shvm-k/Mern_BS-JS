@@ -1,1 +1,1 @@
-# Mern_BS-JS
+# BS-JS-TASK
